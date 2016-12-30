@@ -1,4 +1,4 @@
 # gitdemo
 
-I made some changes to this lolol
-New changes
+I made some changes to this lolol  
+New changes  
